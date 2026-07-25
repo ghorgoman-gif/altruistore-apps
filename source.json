@@ -1,0 +1,25 @@
+{
+  "name": "Altruistore",
+  "identifier": "com.altruistore.source",
+  "subtitle": "Приложения для подписчиков",
+  "description": "Каталог приложений Altruistore. Доступ для подписчиков сервиса.",
+  "iconURL": "https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/icon.png",
+  "website": "https://t.me/altruistore",
+  "tintColor": "5C4DFF",
+  "apps": [
+    {
+      "name": "Пример приложения",
+      "bundleIdentifier": "com.example.demo",
+      "developerName": "Altruistore",
+      "subtitle": "Замените на реальное приложение",
+      "localizedDescription": "Это тестовая запись. Удалите её и добавьте свои приложения.",
+      "iconURL": "https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/icons/demo.png",
+      "version": "1.0",
+      "versionDate": "2026-07-25T00:00:00Z",
+      "versionDescription": "Первая версия.",
+      "size": 10000000,
+      "downloadURL": "https://github.com/ghorgoman-gif/altruistore-apps/releases/download/v1/Demo.ipa"
+    }
+  ],
+  "news": []
+}
