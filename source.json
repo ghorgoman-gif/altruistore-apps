@@ -2,24 +2,45 @@
   "name": "Altruistore",
   "identifier": "com.altruistore.source",
   "subtitle": "Приложения для подписчиков",
-  "description": "Каталог приложений Altruistore. Доступ для подписчиков сервиса.",
+  "description": "Каталог Altruistore — удобно, просто, по-человечески. Приложения для подписчиков сервиса.",
   "iconURL": "https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/icon.png",
   "website": "https://t.me/altruistore",
   "tintColor": "5C4DFF",
   "apps": [
     {
-      "name": "Пример приложения",
-      "bundleIdentifier": "com.example.demo",
+      "name": "Altruistore",
+      "bundleIdentifier": "com.altruistore.app",
       "developerName": "Altruistore",
-      "subtitle": "Замените на реальное приложение",
-      "localizedDescription": "Это тестовая запись. Удалите её и добавьте свои приложения.",
-      "iconURL": "https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/icons/demo.png",
-      "version": "1.0",
-      "versionDate": "2026-07-25T00:00:00Z",
-      "versionDescription": "Первая версия.",
-      "size": 10000000,
-      "downloadURL": "https://github.com/ghorgoman-gif/altruistore-apps/releases/download/v1/Demo.ipa"
+      "subtitle": "Магазин приложений",
+      "localizedDescription": "Установите или обновите Altruistore. После установки импортируйте сертификат через ссылку из бота — и можно скачивать приложения из каталога.",
+      "iconURL": "https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/icon.png",
+      "tintColor": "288FF7",
+      "version": "2.9.0",
+      "versionDate": "2026-07-26T20:12:00Z",
+      "versionDescription": "Первый релиз Altruistore для подписчиков.",
+      "size": 14868651,
+      "downloadURL": "https://github.com/ghorgoman-gif/altruistore-apps/raw/main/Altruistore.ipa",
+      "versions": [
+        {
+          "version": "2.9.0",
+          "date": "2026-07-26T20:12:00Z",
+          "localizedDescription": "Первый релиз Altruistore для подписчиков.",
+          "downloadURL": "https://github.com/ghorgoman-gif/altruistore-apps/raw/main/Altruistore.ipa",
+          "size": 14868651,
+          "minOSVersion": "16.0"
+        }
+      ]
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Добро пожаловать в Altruistore",
+      "identifier": "welcome-2026-07",
+      "caption": "Установка → сертификат → каталог",
+      "date": "2026-07-27T00:00:00Z",
+      "tintColor": "288FF7",
+      "url": "https://t.me/altruistore",
+      "appID": "com.altruistore.app"
+    }
+  ]
 }
