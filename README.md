@@ -9,8 +9,8 @@
 
 ## Скачать
 
-- **Altruistore.ipa:** [Altruistore.ipa](https://github.com/ghorgoman-gif/altruistore-apps/raw/main/Altruistore.ipa)
-- Каталог: [source.json](https://raw.githubusercontent.com/ghorgoman-gif/altruistore-apps/main/source.json)
+- **Altruistore.ipa:** [Altruistore.ipa](https://github.com/ghorgoman-gif/Altruistore/raw/main/Altruistore.ipa)
+- Каталог: [source.json](https://raw.githubusercontent.com/ghorgoman-gif/Altruistore/main/source.json)
 - **Публичная оферта:** [OFERTA.md](./OFERTA.md)
 - Канал: https://t.me/altruistore
 

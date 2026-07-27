@@ -7,7 +7,7 @@
 
 Сервис: **Altruistore**  
 Канал: https://t.me/altruistore  
-Каталог: https://github.com/ghorgoman-gif/altruistore-apps
+Каталог: https://github.com/ghorgoman-gif/Altruistore
 
 ---
 
